@@ -11,9 +11,9 @@ Additional description about the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- Ruby, HTML, CSS, ERB
+- Ruby on Rails
+- Visual Studio Code
 
 ## Live Demo
 
