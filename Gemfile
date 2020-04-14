@@ -40,6 +40,7 @@ gem 'bulma-rails', '~> 0.8.0'
 gem 'simple_form', '~> 5.0', '>= 5.0.2'
 gem 'gravatar_image_tag', '~> 1.2'
 gem 'devise', '~> 4.7', '>= 4.7.1'  #key gem to manage user authentication
+gem 'font-awesome-rails', '~> 4.7', '>= 4.7.0.5' #installing font-awesome
 
 
 group :development, :test do
